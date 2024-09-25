@@ -8,7 +8,7 @@ import { Router } from '@angular/router';
 })
 export class LoginPage {
   email: string = 'javier@gmail.com';
-  password: string = 'monroy123';
+  password: string = 'silva1234';
 
   constructor(private router: Router) {}
 
